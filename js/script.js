@@ -10,4 +10,4 @@ function calculate() {
     answer += count
   }
   document.getElementById("Answer").innerHTML = "The answer is " + answer
-}
+} 
